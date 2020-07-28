@@ -1,3 +1,6 @@
+<h1 align="center">Zetaphor Tengu</h1>
+<h3 align="center">Developer, WebXR enthusiast</h3>
+
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20" />
