@@ -15,4 +15,4 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20" />
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zetaphor&show_icons=true" alt="zetaphor" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zetaphor&show_icons=true" alt="zetaphor" width="400" /> </p>
